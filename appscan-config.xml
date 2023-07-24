@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Configuration>
+  <Targets>
+    <Target path="">
+      <Exclude>1 EMS application (PHP application)\Source code\vendor_form1.php</Exclude>
+      <Exclude>1 EMS application (PHP application)\Source code\vendor.php</Exclude>
+      <Exclude>1 EMS application (PHP application)\Source code\vendor_form2.php</Exclude>
+      <Exclude>1 EMS application (PHP application)\Source code\vendor_info.php</Exclude>
+    </Target>
+  </Targets>
+</Configuration>
